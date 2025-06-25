@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "P1bYqFYMr6mSPT859by3ze8tjlCaY4Er7L2j+gZNBMI=",
+  "Source": "FinsimApi",
+  "BasePath": "_content/FinsimApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
